@@ -1,0 +1,154 @@
+#title{
+  background-color: #CD104D;
+  padding: 0% 7% 7%;
+}
+
+#features{
+  padding: 15% 7% 15% 7% ;
+  text-align: center;
+}
+
+#testimonials{
+  background-color: #CD104D;
+  text-align: center;
+  padding: 10% 7% 15% 7% ;
+}
+
+#press{
+  background-color: #CD104D;
+  text-align: center;
+  padding: 0% 7% 10% 7% ;
+}
+
+#pricing{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding: 5% 15% 5%;
+}
+
+#cta{
+  background-color: #CD104D;
+  padding: 7% 7% 7%;
+  text-align: center;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+#footer{
+  text-align: center;
+  padding: 3% ;
+}
+
+.row{
+  padding-top: 7%;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+
+}
+
+em{
+  color: #fff;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+p{
+  font-family: 'Montserrat light', sans-serif;
+}
+
+@media (max-width: 990px) {
+  .column{
+    padding-bottom: 10%;
+  }
+
+  .company{
+    padding-bottom: 10%;
+  }
+
+}
+
+.card{
+  margin: auto;
+  margin-bottom: 7%;
+}
+
+.dog-profile{
+  height: 250px;
+  padding-top: 2%;
+  padding-right: 1%;
+  border-radius: 60%;
+}
+
+.icon{
+  font-size: 50px;
+  padding-bottom: 10px;
+  color: #CD104D;
+}
+
+.icon:hover{
+  color: #F96666;
+}
+
+.navbar{
+  background-color: #CD104D;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.dog{
+  transform: rotate(25deg);
+  padding-top: 10%;
+}
+
+.navbar-brand{
+  font-size: larger;
+}
+
+
+.header{
+  padding-top: 30%;
+  padding-bottom: 7%;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.apple{
+  margin:0% 3% 5% 0%;
+}
+
+.slideshow{
+  padding: 0% 10% 0% 10%;
+}
+
+.down{
+  margin:3% 1% 0% 1%;
+}
+
+.rox{
+  margin: 1.5%;
+  font-size: 25px;
+  color: #CD104D;
+}
+
+.rox:hover{
+  color: #F96666;
+}
+
+@media (max-width: 1028px) {
+  #title{
+    text-align: center;
+  }
+
+  .dog{
+    transform: rotate(0);
+  }
+
+}
